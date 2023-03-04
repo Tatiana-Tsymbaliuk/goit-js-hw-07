@@ -20,6 +20,7 @@ return `<div class="gallery__item">
   </a>
 </div>`; }).join('');        
 };
+
 galleryContainer.addEventListener('click', handleGalleryContainerClick);
 
 function handleGalleryContainerClick(event) {
@@ -32,12 +33,6 @@ function handleGalleryContainerClick(event) {
 	`).show();   
         return instance;
 };
-// galleryContainer.addEventListener('click', onKeyboardClick);
 
-// const onKeyboardClick = event => {
-//   if (event.key === 'Escape') {
-//           return instance.close();
-//   }
-// };
 
 
