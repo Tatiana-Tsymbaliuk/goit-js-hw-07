@@ -16,5 +16,9 @@
     "url": "https://github.com/Tatiana-Tsymbaliuk/goit-js-hw-07/issues"
   },
   "homepage": "https://github.com/Tatiana-Tsymbaliuk/goit-js-hw-07#readme",
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.0"
+  }
 }
