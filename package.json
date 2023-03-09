@@ -1,0 +1,20 @@
+{
+  "name": "goit-js-hw-07",
+  "version": "1.0.0",
+  "description": "В файле gallery-items.js есть массив galleryItems, который содержит объекты с информацией о изображениях: маленькое (превью), оригинальное (большое) и описание. Мы уже подключили его к каждому из JS-файлов проекта.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tatiana-Tsymbaliuk/goit-js-hw-07.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tatiana-Tsymbaliuk/goit-js-hw-07/issues"
+  },
+  "homepage": "https://github.com/Tatiana-Tsymbaliuk/goit-js-hw-07#readme",
+  "keywords": []
+}
